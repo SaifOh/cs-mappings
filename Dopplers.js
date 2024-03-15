@@ -1,5 +1,5 @@
 //Thanks to /Art-em1s for the original mapping, I only changed it to name -> img -> phase
-{
+var iconToPhaseMapping{
     'Gut Knife | Doppler': {
       '-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxP09i5hJCHkuXLI7PQhW4A18l4jeHVu4_z2A23qBJsYm_wLISSdARtZ13TrFjsxe_mjZO778nJwCcwvnYrtHvD30vgE8aGa3g': { buff: 'p1', phase: 'Phase 1', paintIndex: 418 },
       '-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxP09i5hJCHkuXLI7PQhW4D18l4jeHVu9vw3ALk-0ZpMmGhcoaQdQNqZFrRqFG3x--505XutMzNnydqviZ2sC3D30vgckJMWyk': { buff: 'p2', phase: 'Phase 2', paintIndex: 419 },
